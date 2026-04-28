@@ -1,11 +1,9 @@
 
 ---
 created: 2025-09-08 17:00:53
-scanned: 2025-09-08 17:10:38
 
----
 
-# Rescan 1inch Limit Order Protocol Selected Contracts
+#  1inch Limit Order Protocol Selected Contracts
 
 
 ## Incorrect mask for threshold amount leading to truncated values
